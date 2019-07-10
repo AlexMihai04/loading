@@ -1,7 +1,6 @@
-description 'Pola mare v1'
+description 'Alex este smecher'
 
 files {
-    --Loading Index File--
     'index.html',
 }
 
